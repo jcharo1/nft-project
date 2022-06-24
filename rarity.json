@@ -1,0 +1,1784 @@
+
+> hashlips_art_engine@1.1.1 rarity /Users/mike/Documents/projects/art_engine
+> node utils/rarity.js
+
+Trait type: solid
+{
+  trait: '00_solid_black',
+  weight: '1',
+  occurrence: '46 in 777 editions (5.92 %)'
+}
+{
+  trait: '00_solid_blue',
+  weight: '1',
+  occurrence: '38 in 777 editions (4.89 %)'
+}
+{
+  trait: '00_solid_cyan',
+  weight: '1',
+  occurrence: '47 in 777 editions (6.05 %)'
+}
+{
+  trait: '00_solid_green',
+  weight: '1',
+  occurrence: '37 in 777 editions (4.76 %)'
+}
+{
+  trait: '00_solid_magenta',
+  weight: '1',
+  occurrence: '37 in 777 editions (4.76 %)'
+}
+{
+  trait: '00_solid_orange',
+  weight: '1',
+  occurrence: '33 in 777 editions (4.25 %)'
+}
+{
+  trait: '00_solid_red',
+  weight: '1',
+  occurrence: '46 in 777 editions (5.92 %)'
+}
+{
+  trait: '00_solid_white',
+  weight: '1',
+  occurrence: '33 in 777 editions (4.25 %)'
+}
+{
+  trait: '00_solid_yellow',
+  weight: '1',
+  occurrence: '43 in 777 editions (5.53 %)'
+}
+{
+  trait: '0_solid2_black',
+  weight: '1',
+  occurrence: '45 in 777 editions (5.79 %)'
+}
+{
+  trait: '0_solid2_blue',
+  weight: '1',
+  occurrence: '45 in 777 editions (5.79 %)'
+}
+{
+  trait: '0_solid2_cyan',
+  weight: '1',
+  occurrence: '40 in 777 editions (5.15 %)'
+}
+{
+  trait: '0_solid2_green',
+  weight: '1',
+  occurrence: '43 in 777 editions (5.53 %)'
+}
+{
+  trait: '0_solid2_magenta',
+  weight: '1',
+  occurrence: '43 in 777 editions (5.53 %)'
+}
+{
+  trait: '0_solid2_orange',
+  weight: '1',
+  occurrence: '40 in 777 editions (5.15 %)'
+}
+{
+  trait: '0_solid2_red',
+  weight: '1',
+  occurrence: '47 in 777 editions (6.05 %)'
+}
+{
+  trait: '0_solid2_white',
+  weight: '1',
+  occurrence: '33 in 777 editions (4.25 %)'
+}
+{
+  trait: '0_solid2_yellow',
+  weight: '1',
+  occurrence: '30 in 777 editions (3.86 %)'
+}
+{
+  trait: 'no_earrings',
+  weight: '1',
+  occurrence: '51 in 777 editions (6.56 %)'
+}
+
+Trait type: gradient_solid
+{
+  trait: '01_gradient_black',
+  weight: '1',
+  occurrence: '16 in 777 editions (2.06 %)'
+}
+{
+  trait: '01_gradient_blue',
+  weight: '1',
+  occurrence: '17 in 777 editions (2.19 %)'
+}
+{
+  trait: '01_gradient_cyan',
+  weight: '1',
+  occurrence: '16 in 777 editions (2.06 %)'
+}
+{
+  trait: '01_gradient_green',
+  weight: '1',
+  occurrence: '9 in 777 editions (1.16 %)'
+}
+{
+  trait: '01_gradient_magenta',
+  weight: '1',
+  occurrence: '11 in 777 editions (1.42 %)'
+}
+{
+  trait: '01_gradient_orange',
+  weight: '1',
+  occurrence: '10 in 777 editions (1.29 %)'
+}
+{
+  trait: '01_gradient_red',
+  weight: '1',
+  occurrence: '12 in 777 editions (1.54 %)'
+}
+{
+  trait: '01_gradient_white',
+  weight: '1',
+  occurrence: '12 in 777 editions (1.54 %)'
+}
+{
+  trait: '01_gradient_yellow',
+  weight: '1',
+  occurrence: '13 in 777 editions (1.67 %)'
+}
+{
+  trait: 'no_gradient',
+  weight: '50',
+  occurrence: '661 in 777 editions (85.07 %)'
+}
+
+Trait type: artistic
+{
+  trait: '02c_paint1_black',
+  weight: '1',
+  occurrence: '14 in 777 editions (1.80 %)'
+}
+{
+  trait: '02c_paint1_blue',
+  weight: '1',
+  occurrence: '9 in 777 editions (1.16 %)'
+}
+{
+  trait: '02c_paint1_cyan',
+  weight: '1',
+  occurrence: '3 in 777 editions (0.39 %)'
+}
+{
+  trait: '02c_paint1_green',
+  weight: '1',
+  occurrence: '5 in 777 editions (0.64 %)'
+}
+{
+  trait: '02c_paint1_magenta',
+  weight: '1',
+  occurrence: '12 in 777 editions (1.54 %)'
+}
+{
+  trait: '02c_paint1_orange',
+  weight: '1',
+  occurrence: '3 in 777 editions (0.39 %)'
+}
+{
+  trait: '02c_paint1_red',
+  weight: '1',
+  occurrence: '13 in 777 editions (1.67 %)'
+}
+{
+  trait: '02c_paint1_white',
+  weight: '1',
+  occurrence: '12 in 777 editions (1.54 %)'
+}
+{
+  trait: '02c_paint1_yellow',
+  weight: '1',
+  occurrence: '8 in 777 editions (1.03 %)'
+}
+{
+  trait: '02c_paint2_black',
+  weight: '1',
+  occurrence: '4 in 777 editions (0.51 %)'
+}
+{
+  trait: '02c_paint2_blue',
+  weight: '1',
+  occurrence: '8 in 777 editions (1.03 %)'
+}
+{
+  trait: '02c_paint2_cyan',
+  weight: '1',
+  occurrence: '8 in 777 editions (1.03 %)'
+}
+{
+  trait: '02c_paint2_green',
+  weight: '1',
+  occurrence: '3 in 777 editions (0.39 %)'
+}
+{
+  trait: '02c_paint2_magenta',
+  weight: '1',
+  occurrence: '9 in 777 editions (1.16 %)'
+}
+{
+  trait: '02c_paint2_orange',
+  weight: '1',
+  occurrence: '8 in 777 editions (1.03 %)'
+}
+{
+  trait: '02c_paint2_red',
+  weight: '1',
+  occurrence: '3 in 777 editions (0.39 %)'
+}
+{
+  trait: '02c_paint2_white',
+  weight: '1',
+  occurrence: '11 in 777 editions (1.42 %)'
+}
+{
+  trait: '02c_paint2_yellow',
+  weight: '1',
+  occurrence: '4 in 777 editions (0.51 %)'
+}
+{
+  trait: '02c_paint3_black',
+  weight: '1',
+  occurrence: '10 in 777 editions (1.29 %)'
+}
+{
+  trait: '02c_paint3_blue',
+  weight: '1',
+  occurrence: '10 in 777 editions (1.29 %)'
+}
+{
+  trait: '02c_paint3_cyan',
+  weight: '1',
+  occurrence: '10 in 777 editions (1.29 %)'
+}
+{
+  trait: '02c_paint3_green',
+  weight: '1',
+  occurrence: '3 in 777 editions (0.39 %)'
+}
+{
+  trait: '02c_paint3_magenta',
+  weight: '1',
+  occurrence: '11 in 777 editions (1.42 %)'
+}
+{
+  trait: '02c_paint3_orange',
+  weight: '1',
+  occurrence: '5 in 777 editions (0.64 %)'
+}
+{
+  trait: '02c_paint3_red',
+  weight: '1',
+  occurrence: '11 in 777 editions (1.42 %)'
+}
+{
+  trait: '02c_paint3_white',
+  weight: '1',
+  occurrence: '5 in 777 editions (0.64 %)'
+}
+{
+  trait: '02c_paint3_yellow',
+  weight: '1',
+  occurrence: '12 in 777 editions (1.54 %)'
+}
+{
+  trait: '02c_paint4_black',
+  weight: '1',
+  occurrence: '11 in 777 editions (1.42 %)'
+}
+{
+  trait: '02c_paint4_blue',
+  weight: '1',
+  occurrence: '8 in 777 editions (1.03 %)'
+}
+{
+  trait: '02c_paint4_cyan',
+  weight: '1',
+  occurrence: '9 in 777 editions (1.16 %)'
+}
+{
+  trait: '02c_paint4_green',
+  weight: '1',
+  occurrence: '8 in 777 editions (1.03 %)'
+}
+{
+  trait: '02c_paint4_magenta',
+  weight: '1',
+  occurrence: '11 in 777 editions (1.42 %)'
+}
+{
+  trait: '02c_paint4_orange',
+  weight: '1',
+  occurrence: '4 in 777 editions (0.51 %)'
+}
+{
+  trait: '02c_paint4_red',
+  weight: '1',
+  occurrence: '5 in 777 editions (0.64 %)'
+}
+{
+  trait: '02c_paint4_white',
+  weight: '1',
+  occurrence: '11 in 777 editions (1.42 %)'
+}
+{
+  trait: '02c_paint4_yellow',
+  weight: '1',
+  occurrence: '13 in 777 editions (1.67 %)'
+}
+{
+  trait: '02c_paint5_black',
+  weight: '1',
+  occurrence: '9 in 777 editions (1.16 %)'
+}
+{
+  trait: '02c_paint5_blue',
+  weight: '1',
+  occurrence: '4 in 777 editions (0.51 %)'
+}
+{
+  trait: '02c_paint5_cyan',
+  weight: '1',
+  occurrence: '7 in 777 editions (0.90 %)'
+}
+{
+  trait: '02c_paint5_green',
+  weight: '1',
+  occurrence: '13 in 777 editions (1.67 %)'
+}
+{
+  trait: '02c_paint5_magenta',
+  weight: '1',
+  occurrence: '7 in 777 editions (0.90 %)'
+}
+{
+  trait: '02c_paint5_orange',
+  weight: '1',
+  occurrence: '6 in 777 editions (0.77 %)'
+}
+{
+  trait: '02c_paint5_red',
+  weight: '1',
+  occurrence: '4 in 777 editions (0.51 %)'
+}
+{
+  trait: '02c_paint5_white',
+  weight: '1',
+  occurrence: '7 in 777 editions (0.90 %)'
+}
+{
+  trait: '02c_paint5_yellow',
+  weight: '1',
+  occurrence: '13 in 777 editions (1.67 %)'
+}
+{
+  trait: '02c_paint6_black',
+  weight: '1',
+  occurrence: '3 in 777 editions (0.39 %)'
+}
+{
+  trait: '02c_paint6_blue',
+  weight: '1',
+  occurrence: '11 in 777 editions (1.42 %)'
+}
+{
+  trait: '02c_paint6_cyan',
+  weight: '1',
+  occurrence: '5 in 777 editions (0.64 %)'
+}
+{
+  trait: '02c_paint6_green',
+  weight: '1',
+  occurrence: '10 in 777 editions (1.29 %)'
+}
+{
+  trait: '02c_paint6_magenta',
+  weight: '1',
+  occurrence: '3 in 777 editions (0.39 %)'
+}
+{
+  trait: '02c_paint6_orange',
+  weight: '1',
+  occurrence: '10 in 777 editions (1.29 %)'
+}
+{
+  trait: '02c_paint6_red',
+  weight: '1',
+  occurrence: '6 in 777 editions (0.77 %)'
+}
+{
+  trait: '02c_paint6_white',
+  weight: '1',
+  occurrence: '11 in 777 editions (1.42 %)'
+}
+{
+  trait: '02c_paint6_yellow',
+  weight: '1',
+  occurrence: '9 in 777 editions (1.16 %)'
+}
+{
+  trait: 'no_earrings',
+  weight: '40',
+  occurrence: '345 in 777 editions (44.40 %)'
+}
+
+Trait type: spray
+{
+  trait: '02_streaks_black',
+  weight: '1',
+  occurrence: '11 in 777 editions (1.42 %)'
+}
+{
+  trait: '02_streaks_blue',
+  weight: '1',
+  occurrence: '16 in 777 editions (2.06 %)'
+}
+{
+  trait: '02_streaks_cyan',
+  weight: '1',
+  occurrence: '6 in 777 editions (0.77 %)'
+}
+{
+  trait: '02_streaks_green',
+  weight: '1',
+  occurrence: '9 in 777 editions (1.16 %)'
+}
+{
+  trait: '02_streaks_magenta',
+  weight: '1',
+  occurrence: '12 in 777 editions (1.54 %)'
+}
+{
+  trait: '02_streaks_orange',
+  weight: '1',
+  occurrence: '16 in 777 editions (2.06 %)'
+}
+{
+  trait: '02_streaks_red',
+  weight: '1',
+  occurrence: '4 in 777 editions (0.51 %)'
+}
+{
+  trait: '02_streaks_white',
+  weight: '1',
+  occurrence: '13 in 777 editions (1.67 %)'
+}
+{
+  trait: '02_streaks_yellow',
+  weight: '1',
+  occurrence: '6 in 777 editions (0.77 %)'
+}
+{
+  trait: '02a_cuts_black',
+  weight: '1',
+  occurrence: '7 in 777 editions (0.90 %)'
+}
+{
+  trait: '02a_cuts_blue',
+  weight: '1',
+  occurrence: '13 in 777 editions (1.67 %)'
+}
+{
+  trait: '02a_cuts_cyan',
+  weight: '1',
+  occurrence: '8 in 777 editions (1.03 %)'
+}
+{
+  trait: '02a_cuts_green',
+  weight: '1',
+  occurrence: '9 in 777 editions (1.16 %)'
+}
+{
+  trait: '02a_cuts_magenta',
+  weight: '1',
+  occurrence: '12 in 777 editions (1.54 %)'
+}
+{
+  trait: '02a_cuts_orange',
+  weight: '1',
+  occurrence: '6 in 777 editions (0.77 %)'
+}
+{
+  trait: '02a_cuts_red',
+  weight: '1',
+  occurrence: '10 in 777 editions (1.29 %)'
+}
+{
+  trait: '02a_cuts_white',
+  weight: '1',
+  occurrence: '10 in 777 editions (1.29 %)'
+}
+{
+  trait: '02a_cuts_yellow',
+  weight: '1',
+  occurrence: '7 in 777 editions (0.90 %)'
+}
+{
+  trait: '02b_spray2_black',
+  weight: '1',
+  occurrence: '11 in 777 editions (1.42 %)'
+}
+{
+  trait: '02b_spray2_blue',
+  weight: '1',
+  occurrence: '14 in 777 editions (1.80 %)'
+}
+{
+  trait: '02b_spray2_cyan',
+  weight: '1',
+  occurrence: '14 in 777 editions (1.80 %)'
+}
+{
+  trait: '02b_spray2_green',
+  weight: '1',
+  occurrence: '8 in 777 editions (1.03 %)'
+}
+{
+  trait: '02b_spray2_magenta',
+  weight: '1',
+  occurrence: '9 in 777 editions (1.16 %)'
+}
+{
+  trait: '02b_spray2_orange',
+  weight: '1',
+  occurrence: '10 in 777 editions (1.29 %)'
+}
+{
+  trait: '02b_spray2_red',
+  weight: '1',
+  occurrence: '11 in 777 editions (1.42 %)'
+}
+{
+  trait: '02b_spray2_white',
+  weight: '1',
+  occurrence: '7 in 777 editions (0.90 %)'
+}
+{
+  trait: '02b_spray2_yellow',
+  weight: '1',
+  occurrence: '12 in 777 editions (1.54 %)'
+}
+{
+  trait: '02b_spray_black',
+  weight: '1',
+  occurrence: '10 in 777 editions (1.29 %)'
+}
+{
+  trait: '02b_spray_blue',
+  weight: '1',
+  occurrence: '6 in 777 editions (0.77 %)'
+}
+{
+  trait: '02b_spray_cyan',
+  weight: '1',
+  occurrence: '7 in 777 editions (0.90 %)'
+}
+{
+  trait: '02b_spray_green',
+  weight: '1',
+  occurrence: '13 in 777 editions (1.67 %)'
+}
+{
+  trait: '02b_spray_magenta',
+  weight: '1',
+  occurrence: '14 in 777 editions (1.80 %)'
+}
+{
+  trait: '02b_spray_orange',
+  weight: '1',
+  occurrence: '9 in 777 editions (1.16 %)'
+}
+{
+  trait: '02b_spray_red',
+  weight: '1',
+  occurrence: '12 in 777 editions (1.54 %)'
+}
+{
+  trait: '02b_spray_white',
+  weight: '1',
+  occurrence: '4 in 777 editions (0.51 %)'
+}
+{
+  trait: '02b_spray_yellow',
+  weight: '1',
+  occurrence: '8 in 777 editions (1.03 %)'
+}
+{
+  trait: 'no_earrings',
+  weight: '40',
+  occurrence: '423 in 777 editions (54.44 %)'
+}
+
+Trait type: body
+{
+  trait: 'babybl_01',
+  weight: '1',
+  occurrence: '11 in 777 editions (1.42 %)'
+}
+{
+  trait: 'backuplikeytemp4k_01',
+  weight: '1',
+  occurrence: '17 in 777 editions (2.19 %)'
+}
+{
+  trait: 'blueskin_01',
+  weight: '1',
+  occurrence: '14 in 777 editions (1.80 %)'
+}
+{
+  trait: 'brightblue_01',
+  weight: '1',
+  occurrence: '18 in 777 editions (2.32 %)'
+}
+{
+  trait: 'brown_01',
+  weight: '1',
+  occurrence: '21 in 777 editions (2.70 %)'
+}
+{
+  trait: 'darkpink_01',
+  weight: '1',
+  occurrence: '16 in 777 editions (2.06 %)'
+}
+{
+  trait: 'green_01',
+  weight: '1',
+  occurrence: '34 in 777 editions (4.38 %)'
+}
+{
+  trait: 'lightbrow_01',
+  weight: '1',
+  occurrence: '23 in 777 editions (2.96 %)'
+}
+{
+  trait: 'lightgreen_01',
+  weight: '1',
+  occurrence: '22 in 777 editions (2.83 %)'
+}
+{
+  trait: 'lightpink_01',
+  weight: '1',
+  occurrence: '24 in 777 editions (3.09 %)'
+}
+{
+  trait: 'lpurple_01',
+  weight: '1',
+  occurrence: '25 in 777 editions (3.22 %)'
+}
+{
+  trait: 'lred_01',
+  weight: '1',
+  occurrence: '15 in 777 editions (1.93 %)'
+}
+{
+  trait: 'mint_01',
+  weight: '1',
+  occurrence: '18 in 777 editions (2.32 %)'
+}
+{
+  trait: 'notatdark_01',
+  weight: '1',
+  occurrence: '18 in 777 editions (2.32 %)'
+}
+{
+  trait: 'pale_01',
+  weight: '1',
+  occurrence: '22 in 777 editions (2.83 %)'
+}
+{
+  trait: 'pink_01',
+  weight: '1',
+  occurrence: '27 in 777 editions (3.47 %)'
+}
+{
+  trait: 'purple_01',
+  weight: '1',
+  occurrence: '29 in 777 editions (3.73 %)'
+}
+{
+  trait: 'red_01',
+  weight: '1',
+  occurrence: '22 in 777 editions (2.83 %)'
+}
+{
+  trait: 'redish_01',
+  weight: '1',
+  occurrence: '21 in 777 editions (2.70 %)'
+}
+{
+  trait: 'skin_01',
+  weight: '1',
+  occurrence: '19 in 777 editions (2.45 %)'
+}
+{
+  trait: 'softpink_01',
+  weight: '1',
+  occurrence: '19 in 777 editions (2.45 %)'
+}
+{
+  trait: 'tan_01',
+  weight: '1',
+  occurrence: '25 in 777 editions (3.22 %)'
+}
+{
+  trait: 'tattoo_01',
+  weight: '1',
+  occurrence: '13 in 777 editions (1.67 %)'
+}
+{
+  trait: 'tattoo_blue_01',
+  weight: '1',
+  occurrence: '20 in 777 editions (2.57 %)'
+}
+{
+  trait: 'tattoo_dark_01',
+  weight: '1',
+  occurrence: '18 in 777 editions (2.32 %)'
+}
+{
+  trait: 'tattoo_limeegreen_01',
+  weight: '1',
+  occurrence: '17 in 777 editions (2.19 %)'
+}
+{
+  trait: 'tattoo_limegreen_01',
+  weight: '1',
+  occurrence: '20 in 777 editions (2.57 %)'
+}
+{
+  trait: 'tattoo_pink_01',
+  weight: '1',
+  occurrence: '25 in 777 editions (3.22 %)'
+}
+{
+  trait: 'tattoo_purple_01',
+  weight: '1',
+  occurrence: '11 in 777 editions (1.42 %)'
+}
+{
+  trait: 'tattoo_purplee_01',
+  weight: '1',
+  occurrence: '25 in 777 editions (3.22 %)'
+}
+{
+  trait: 'tattoo_purrrple_01',
+  weight: '1',
+  occurrence: '26 in 777 editions (3.35 %)'
+}
+{
+  trait: 'tattoo_red_01',
+  weight: '1',
+  occurrence: '21 in 777 editions (2.70 %)'
+}
+{
+  trait: 'tattoo_skyblue_01',
+  weight: '1',
+  occurrence: '17 in 777 editions (2.19 %)'
+}
+{
+  trait: 'tattoo_softgreen_01',
+  weight: '1',
+  occurrence: '16 in 777 editions (2.06 %)'
+}
+{
+  trait: 'tattoo_softpink_01',
+  weight: '1',
+  occurrence: '17 in 777 editions (2.19 %)'
+}
+{
+  trait: 'tattoo_softred_01',
+  weight: '1',
+  occurrence: '15 in 777 editions (1.93 %)'
+}
+{
+  trait: 'tattoo_tan_01',
+  weight: '1',
+  occurrence: '15 in 777 editions (1.93 %)'
+}
+{
+  trait: 'tattoo_teal_01',
+  weight: '1',
+  occurrence: '19 in 777 editions (2.45 %)'
+}
+{
+  trait: 'yellow_01',
+  weight: '1',
+  occurrence: '22 in 777 editions (2.83 %)'
+}
+
+Trait type: earings
+{
+  trait: '1hoop_01',
+  weight: '1',
+  occurrence: '5 in 777 editions (0.64 %)'
+}
+{
+  trait: 'crosshoop_01',
+  weight: '5',
+  occurrence: '34 in 777 editions (4.38 %)'
+}
+{
+  trait: 'doublehoop_01',
+  weight: '10',
+  occurrence: '75 in 777 editions (9.65 %)'
+}
+{
+  trait: 'featherhoop_01',
+  weight: '5',
+  occurrence: '44 in 777 editions (5.66 %)'
+}
+{
+  trait: 'gauges_01',
+  weight: '10',
+  occurrence: '67 in 777 editions (8.62 %)'
+}
+{
+  trait: 'no_earrings',
+  weight: '70',
+  occurrence: '552 in 777 editions (71.04 %)'
+}
+
+Trait type: mouths
+{
+  trait: '2_gold_pearly_mouth (4)',
+  weight: '1',
+  occurrence: '86 in 777 editions (11.07 %)'
+}
+{
+  trait: 'gummymouth_01',
+  weight: '1',
+  occurrence: '79 in 777 editions (10.17 %)'
+}
+{
+  trait: 'openmouth_01',
+  weight: '1',
+  occurrence: '91 in 777 editions (11.71 %)'
+}
+{
+  trait: 'openmouthteeth_01',
+  weight: '1',
+  occurrence: '88 in 777 editions (11.33 %)'
+}
+{
+  trait: 'scarmouth_01',
+  weight: '1',
+  occurrence: '75 in 777 editions (9.65 %)'
+}
+{
+  trait: 'smile_01',
+  weight: '1',
+  occurrence: '78 in 777 editions (10.04 %)'
+}
+{
+  trait: 'toothpick_01',
+  weight: '1',
+  occurrence: '99 in 777 editions (12.74 %)'
+}
+{
+  trait: 'toungueout_01',
+  weight: '1',
+  occurrence: '87 in 777 editions (11.20 %)'
+}
+{
+  trait: 'vampire_gold_mouth (4)',
+  weight: '1',
+  occurrence: '94 in 777 editions (12.10 %)'
+}
+
+Trait type: eyes
+{
+  trait: 'eye_black_eye',
+  weight: '5',
+  occurrence: '20 in 777 editions (2.57 %)'
+}
+{
+  trait: 'eye_blood',
+  weight: '2',
+  occurrence: '6 in 777 editions (0.77 %)'
+}
+{
+  trait: 'eye_distorted_3d',
+  weight: '10',
+  occurrence: '47 in 777 editions (6.05 %)'
+}
+{
+  trait: 'eye_googley_clear',
+  weight: '10',
+  occurrence: '43 in 777 editions (5.53 %)'
+}
+{
+  trait: 'eye_heart',
+  weight: '1',
+  occurrence: '3 in 777 editions (0.39 %)'
+}
+{
+  trait: 'eye_oval_straight',
+  weight: '10',
+  occurrence: '44 in 777 editions (5.66 %)'
+}
+{
+  trait: 'eye_pink_rainbow',
+  weight: '3',
+  occurrence: '15 in 777 editions (1.93 %)'
+}
+{
+  trait: 'eye_rainbow',
+  weight: '3',
+  occurrence: '16 in 777 editions (2.06 %)'
+}
+{
+  trait: 'eye_round_distorted_crazy',
+  weight: '10',
+  occurrence: '46 in 777 editions (5.92 %)'
+}
+{
+  trait: 'eye_round_distorted_down',
+  weight: '10',
+  occurrence: '54 in 777 editions (6.95 %)'
+}
+{
+  trait: 'eye_round_distorted_down_left',
+  weight: '10',
+  occurrence: '56 in 777 editions (7.21 %)'
+}
+{
+  trait: 'eye_round_distorted_up',
+  weight: '10',
+  occurrence: '54 in 777 editions (6.95 %)'
+}
+{
+  trait: 'eye_round_googley_blue',
+  weight: '10',
+  occurrence: '61 in 777 editions (7.85 %)'
+}
+{
+  trait: 'eye_round_up_up',
+  weight: '10',
+  occurrence: '56 in 777 editions (7.21 %)'
+}
+{
+  trait: 'eye_semi_distorted_hazy',
+  weight: '10',
+  occurrence: '58 in 777 editions (7.46 %)'
+}
+{
+  trait: 'eye_semi_right',
+  weight: '10',
+  occurrence: '37 in 777 editions (4.76 %)'
+}
+{
+  trait: 'eye_semi_straight',
+  weight: '10',
+  occurrence: '54 in 777 editions (6.95 %)'
+}
+{
+  trait: 'eye_wave_straight',
+  weight: '10',
+  occurrence: '38 in 777 editions (4.89 %)'
+}
+{
+  trait: 'eye_wink_one',
+  weight: '5',
+  occurrence: '39 in 777 editions (5.02 %)'
+}
+{
+  trait: 'eye_wink_two',
+  weight: '5',
+  occurrence: '26 in 777 editions (3.35 %)'
+}
+{
+  trait: 'eye_x',
+  weight: '1',
+  occurrence: '4 in 777 editions (0.51 %)'
+}
+
+Trait type: hair
+{
+  trait: '69dreads_01',
+  weight: '1',
+  occurrence: '6 in 777 editions (0.77 %)'
+}
+{
+  trait: '69glowdreads_01',
+  weight: '1',
+  occurrence: '5 in 777 editions (0.64 %)'
+}
+{
+  trait: 'babbluedreadpng_01',
+  weight: '1',
+  occurrence: '7 in 777 editions (0.90 %)'
+}
+{
+  trait: 'bcblk_01',
+  weight: '1',
+  occurrence: '6 in 777 editions (0.77 %)'
+}
+{
+  trait: 'bcblue_01',
+  weight: '1',
+  occurrence: '2 in 777 editions (0.26 %)'
+}
+{
+  trait: 'bcgreen_01',
+  weight: '1',
+  occurrence: '7 in 777 editions (0.90 %)'
+}
+{
+  trait: 'bcgrey_01',
+  weight: '1',
+  occurrence: '3 in 777 editions (0.39 %)'
+}
+{
+  trait: 'bclighpink_01',
+  weight: '1',
+  occurrence: '7 in 777 editions (0.90 %)'
+}
+{
+  trait: 'bclightpink_01',
+  weight: '1',
+  occurrence: '5 in 777 editions (0.64 %)'
+}
+{
+  trait: 'bclightpurple_01',
+  weight: '1',
+  occurrence: '10 in 777 editions (1.29 %)'
+}
+{
+  trait: 'bcmint_01',
+  weight: '1',
+  occurrence: '11 in 777 editions (1.42 %)'
+}
+{
+  trait: 'bcorange_01',
+  weight: '1',
+  occurrence: '8 in 777 editions (1.03 %)'
+}
+{
+  trait: 'bcpink_01',
+  weight: '1',
+  occurrence: '1 in 777 editions (0.13 %)'
+}
+{
+  trait: 'bcpurple_01',
+  weight: '1',
+  occurrence: '3 in 777 editions (0.39 %)'
+}
+{
+  trait: 'bcred_01',
+  weight: '1',
+  occurrence: '7 in 777 editions (0.90 %)'
+}
+{
+  trait: 'bcteal_01',
+  weight: '1',
+  occurrence: '10 in 777 editions (1.29 %)'
+}
+{
+  trait: 'bcyellow_01',
+  weight: '1',
+  occurrence: '10 in 777 editions (1.29 %)'
+}
+{
+  trait: 'beaniegrey_01',
+  weight: '1',
+  occurrence: '7 in 777 editions (0.90 %)'
+}
+{
+  trait: 'blackblueglowlonghair_01',
+  weight: '1',
+  occurrence: '4 in 777 editions (0.51 %)'
+}
+{
+  trait: 'blackdreds_01_01',
+  weight: '1',
+  occurrence: '3 in 777 editions (0.39 %)'
+}
+{
+  trait: 'blackfrotop_01',
+  weight: '1',
+  occurrence: '2 in 777 editions (0.26 %)'
+}
+{
+  trait: 'blackglowfrotop_01',
+  weight: '1',
+  occurrence: '5 in 777 editions (0.64 %)'
+}
+{
+  trait: 'blackgold_01',
+  weight: '1',
+  occurrence: '9 in 777 editions (1.16 %)'
+}
+{
+  trait: 'blackgoldglowfrotop_01',
+  weight: '1',
+  occurrence: '6 in 777 editions (0.77 %)'
+}
+{
+  trait: 'blackgreeglowfrotop_01',
+  weight: '1',
+  occurrence: '8 in 777 editions (1.03 %)'
+}
+{
+  trait: 'blackgreenlonghair_01',
+  weight: '1',
+  occurrence: '5 in 777 editions (0.64 %)'
+}
+{
+  trait: 'blacknyellow_01',
+  weight: '1',
+  occurrence: '7 in 777 editions (0.90 %)'
+}
+{
+  trait: 'blacknyellowdread_01',
+  weight: '1',
+  occurrence: '8 in 777 editions (1.03 %)'
+}
+{
+  trait: 'blackyellowlonghair_01',
+  weight: '1',
+  occurrence: '3 in 777 editions (0.39 %)'
+}
+{
+  trait: 'blkbeanie_01',
+  weight: '1',
+  occurrence: '3 in 777 editions (0.39 %)'
+}
+{
+  trait: 'blkyellowbeanie_01',
+  weight: '1',
+  occurrence: '3 in 777 editions (0.39 %)'
+}
+{
+  trait: 'blkyellowheadband_01',
+  weight: '1',
+  occurrence: '8 in 777 editions (1.03 %)'
+}
+{
+  trait: 'bluebeanie_01',
+  weight: '1',
+  occurrence: '6 in 777 editions (0.77 %)'
+}
+{
+  trait: 'blueblacksnap_01',
+  weight: '1',
+  occurrence: '3 in 777 editions (0.39 %)'
+}
+{
+  trait: 'bluebucket_01_01',
+  weight: '1',
+  occurrence: '3 in 777 editions (0.39 %)'
+}
+{
+  trait: 'blueebucket_01',
+  weight: '1',
+  occurrence: '1 in 777 editions (0.13 %)'
+}
+{
+  trait: 'bluefrotop_01',
+  weight: '1',
+  occurrence: '6 in 777 editions (0.77 %)'
+}
+{
+  trait: 'bluegoldbeanie_01',
+  weight: '1',
+  occurrence: '5 in 777 editions (0.64 %)'
+}
+{
+  trait: 'bluegreysnap_01',
+  weight: '1',
+  occurrence: '4 in 777 editions (0.51 %)'
+}
+{
+  trait: 'bluepurpbean_01',
+  weight: '1',
+  occurrence: '7 in 777 editions (0.90 %)'
+}
+{
+  trait: 'bluesnap_01',
+  weight: '1',
+  occurrence: '4 in 777 editions (0.51 %)'
+}
+{
+  trait: 'blueyellow_01',
+  weight: '1',
+  occurrence: '3 in 777 editions (0.39 %)'
+}
+{
+  trait: 'bowlcutred_01',
+  weight: '1',
+  occurrence: '9 in 777 editions (1.16 %)'
+}
+{
+  trait: 'browndreads_01',
+  weight: '1',
+  occurrence: '4 in 777 editions (0.51 %)'
+}
+{
+  trait: 'brownmixdreads_01',
+  weight: '1',
+  occurrence: '4 in 777 editions (0.51 %)'
+}
+{
+  trait: 'cbblue_01',
+  weight: '1',
+  occurrence: '6 in 777 editions (0.77 %)'
+}
+{
+  trait: 'cbblueish_01',
+  weight: '1',
+  occurrence: '5 in 777 editions (0.64 %)'
+}
+{
+  trait: 'cbgreen_01',
+  weight: '1',
+  occurrence: '4 in 777 editions (0.51 %)'
+}
+{
+  trait: 'cbgreentan_01',
+  weight: '1',
+  occurrence: '2 in 777 editions (0.26 %)'
+}
+{
+  trait: 'cblimegreen_01',
+  weight: '1',
+  occurrence: '7 in 777 editions (0.90 %)'
+}
+{
+  trait: 'cborang_01',
+  weight: '1',
+  occurrence: '5 in 777 editions (0.64 %)'
+}
+{
+  trait: 'cbpurple_01',
+  weight: '1',
+  occurrence: '9 in 777 editions (1.16 %)'
+}
+{
+  trait: 'cbred_01',
+  weight: '1',
+  occurrence: '8 in 777 editions (1.03 %)'
+}
+{
+  trait: 'cbsamon_01',
+  weight: '1',
+  occurrence: '10 in 777 editions (1.29 %)'
+}
+{
+  trait: 'cbtan_01',
+  weight: '1',
+  occurrence: '8 in 777 editions (1.03 %)'
+}
+{
+  trait: 'cbteal_01',
+  weight: '1',
+  occurrence: '5 in 777 editions (0.64 %)'
+}
+{
+  trait: 'darkgreen_ponytail_01',
+  weight: '1',
+  occurrence: '8 in 777 editions (1.03 %)'
+}
+{
+  trait: 'graybluelonghair_01',
+  weight: '1',
+  occurrence: '4 in 777 editions (0.51 %)'
+}
+{
+  trait: 'graypony_01',
+  weight: '1',
+  occurrence: '3 in 777 editions (0.39 %)'
+}
+{
+  trait: 'graytexturedponytail_01',
+  weight: '1',
+  occurrence: '6 in 777 editions (0.77 %)'
+}
+{
+  trait: 'green_ponytail_01',
+  weight: '1',
+  occurrence: '1 in 777 editions (0.13 %)'
+}
+{
+  trait: 'greenbluebeanie_01',
+  weight: '1',
+  occurrence: '6 in 777 editions (0.77 %)'
+}
+{
+  trait: 'greenglow_ponytail_01',
+  weight: '1',
+  occurrence: '5 in 777 editions (0.64 %)'
+}
+{
+  trait: 'greengreysnap_01',
+  weight: '1',
+  occurrence: '7 in 777 editions (0.90 %)'
+}
+{
+  trait: 'greensamonbeanie_01',
+  weight: '1',
+  occurrence: '5 in 777 editions (0.64 %)'
+}
+{
+  trait: 'greybucket_01',
+  weight: '1',
+  occurrence: '7 in 777 editions (0.90 %)'
+}
+{
+  trait: 'greypinkbeanie_01',
+  weight: '1',
+  occurrence: '5 in 777 editions (0.64 %)'
+}
+{
+  trait: 'greysnap_01',
+  weight: '1',
+  occurrence: '11 in 777 editions (1.42 %)'
+}
+{
+  trait: 'lightgreen_01',
+  weight: '1',
+  occurrence: '6 in 777 editions (0.77 %)'
+}
+{
+  trait: 'lightgreybucket_01',
+  weight: '1',
+  occurrence: '1 in 777 editions (0.13 %)'
+}
+{
+  trait: 'limegreen_01',
+  weight: '1',
+  occurrence: '3 in 777 editions (0.39 %)'
+}
+{
+  trait: 'limegreenfrotop_01',
+  weight: '1',
+  occurrence: '4 in 777 editions (0.51 %)'
+}
+{
+  trait: 'maroon_01',
+  weight: '1',
+  occurrence: '5 in 777 editions (0.64 %)'
+}
+{
+  trait: 'maroongreysnap_01',
+  weight: '1',
+  occurrence: '4 in 777 editions (0.51 %)'
+}
+{
+  trait: 'maroonsnap_01',
+  weight: '1',
+  occurrence: '5 in 777 editions (0.64 %)'
+}
+{
+  trait: 'mintgreendreadglow_01',
+  weight: '1',
+  occurrence: '7 in 777 editions (0.90 %)'
+}
+{
+  trait: 'mintgreendreads_01',
+  weight: '1',
+  occurrence: '4 in 777 editions (0.51 %)'
+}
+{
+  trait: 'mintgreenside_01',
+  weight: '1',
+  occurrence: '5 in 777 editions (0.64 %)'
+}
+{
+  trait: 'multi_colorhat_01',
+  weight: '1',
+  occurrence: '5 in 777 editions (0.64 %)'
+}
+{
+  trait: 'neonred_ponytail_01',
+  weight: '1',
+  occurrence: '7 in 777 editions (0.90 %)'
+}
+{
+  trait: 'no_earrings',
+  weight: '1',
+  occurrence: '2 in 777 editions (0.26 %)'
+}
+{
+  trait: 'orange_01',
+  weight: '1',
+  occurrence: '4 in 777 editions (0.51 %)'
+}
+{
+  trait: 'orange_ponytail_01',
+  weight: '1',
+  occurrence: '6 in 777 editions (0.77 %)'
+}
+{
+  trait: 'orangeblksnap_01',
+  weight: '1',
+  occurrence: '6 in 777 editions (0.77 %)'
+}
+{
+  trait: 'orangebucket_01',
+  weight: '1',
+  occurrence: '8 in 777 editions (1.03 %)'
+}
+{
+  trait: 'orangedreads_01',
+  weight: '1',
+  occurrence: '6 in 777 editions (0.77 %)'
+}
+{
+  trait: 'orbluheadband_01',
+  weight: '1',
+  occurrence: '10 in 777 editions (1.29 %)'
+}
+{
+  trait: 'pink_ponytail_01',
+  weight: '1',
+  occurrence: '6 in 777 editions (0.77 %)'
+}
+{
+  trait: 'pinkfrotopglow_01',
+  weight: '1',
+  occurrence: '7 in 777 editions (0.90 %)'
+}
+{
+  trait: 'purpblackside_01',
+  weight: '1',
+  occurrence: '7 in 777 editions (0.90 %)'
+}
+{
+  trait: 'purpblk_01 copy',
+  weight: '1',
+  occurrence: '6 in 777 editions (0.77 %)'
+}
+{
+  trait: 'purpblk_01',
+  weight: '1',
+  occurrence: '10 in 777 editions (1.29 %)'
+}
+{
+  trait: 'purple_01',
+  weight: '1',
+  occurrence: '7 in 777 editions (0.90 %)'
+}
+{
+  trait: 'purplebluelonghair_01',
+  weight: '1',
+  occurrence: '3 in 777 editions (0.39 %)'
+}
+{
+  trait: 'purplefrotop_01',
+  weight: '1',
+  occurrence: '3 in 777 editions (0.39 %)'
+}
+{
+  trait: 'purplegrey_01',
+  weight: '1',
+  occurrence: '6 in 777 editions (0.77 %)'
+}
+{
+  trait: 'purplehairdread_01',
+  weight: '1',
+  occurrence: '5 in 777 editions (0.64 %)'
+}
+{
+  trait: 'red_01',
+  weight: '1',
+  occurrence: '3 in 777 editions (0.39 %)'
+}
+{
+  trait: 'red_dreadssponge_01',
+  weight: '1',
+  occurrence: '6 in 777 editions (0.77 %)'
+}
+{
+  trait: 'red_ponytail_01',
+  weight: '1',
+  occurrence: '7 in 777 editions (0.90 %)'
+}
+{
+  trait: 'redblkhead_01',
+  weight: '1',
+  occurrence: '9 in 777 editions (1.16 %)'
+}
+{
+  trait: 'redbucket_01',
+  weight: '1',
+  occurrence: '5 in 777 editions (0.64 %)'
+}
+{
+  trait: 'reddreads_01',
+  weight: '1',
+  occurrence: '2 in 777 editions (0.26 %)'
+}
+{
+  trait: 'reddreads_01_01',
+  weight: '1',
+  occurrence: '6 in 777 editions (0.77 %)'
+}
+{
+  trait: 'redglow.frotop_01',
+  weight: '1',
+  occurrence: '5 in 777 editions (0.64 %)'
+}
+{
+  trait: 'redgreensnap_01',
+  weight: '1',
+  occurrence: '3 in 777 editions (0.39 %)'
+}
+{
+  trait: 'redgreysnap_01',
+  weight: '1',
+  occurrence: '7 in 777 editions (0.90 %)'
+}
+{
+  trait: 'redwhiteheadband_01',
+  weight: '1',
+  occurrence: '3 in 777 editions (0.39 %)'
+}
+{
+  trait: 'reversetwtone_01',
+  weight: '1',
+  occurrence: '6 in 777 editions (0.77 %)'
+}
+{
+  trait: 'ricehat_01',
+  weight: '1',
+  occurrence: '7 in 777 editions (0.90 %)'
+}
+{
+  trait: 'skyblue_01',
+  weight: '1',
+  occurrence: '7 in 777 editions (0.90 %)'
+}
+{
+  trait: 'snapbackteal_01',
+  weight: '1',
+  occurrence: '5 in 777 editions (0.64 %)'
+}
+{
+  trait: 'strawhatlikey_01',
+  weight: '1',
+  occurrence: '8 in 777 editions (1.03 %)'
+}
+{
+  trait: 'tanblk_01',
+  weight: '1',
+  occurrence: '5 in 777 editions (0.64 %)'
+}
+{
+  trait: 'tanbucket_01',
+  weight: '1',
+  occurrence: '3 in 777 editions (0.39 %)'
+}
+{
+  trait: 'teal_ponytail_01',
+  weight: '1',
+  occurrence: '5 in 777 editions (0.64 %)'
+}
+{
+  trait: 'tealbeanie_01',
+  weight: '1',
+  occurrence: '3 in 777 editions (0.39 %)'
+}
+{
+  trait: 'tealblkheadband_01',
+  weight: '1',
+  occurrence: '6 in 777 editions (0.77 %)'
+}
+{
+  trait: 'tealfrotop_01',
+  weight: '1',
+  occurrence: '6 in 777 editions (0.77 %)'
+}
+{
+  trait: 'tealgreybeanie_01',
+  weight: '1',
+  occurrence: '6 in 777 editions (0.77 %)'
+}
+{
+  trait: 'tealpinkbean_01',
+  weight: '1',
+  occurrence: '8 in 777 editions (1.03 %)'
+}
+{
+  trait: 'tealpinkbeanie_01',
+  weight: '1',
+  occurrence: '9 in 777 editions (1.16 %)'
+}
+{
+  trait: 'tricolor_01',
+  weight: '1',
+  occurrence: '5 in 777 editions (0.64 %)'
+}
+{
+  trait: 'twotone_01',
+  weight: '1',
+  occurrence: '8 in 777 editions (1.03 %)'
+}
+{
+  trait: 'whiteblueheadband_01',
+  weight: '1',
+  occurrence: '1 in 777 editions (0.13 %)'
+}
+{
+  trait: 'whitedreads_01',
+  weight: '1',
+  occurrence: '3 in 777 editions (0.39 %)'
+}
+{
+  trait: 'whitefrotop_01',
+  weight: '1',
+  occurrence: '5 in 777 editions (0.64 %)'
+}
+{
+  trait: 'whiteglowfrotop_01',
+  weight: '1',
+  occurrence: '9 in 777 editions (1.16 %)'
+}
+{
+  trait: 'whiteglowlonghair_01',
+  weight: '1',
+  occurrence: '6 in 777 editions (0.77 %)'
+}
+{
+  trait: 'whitegreenglowfrotop_01',
+  weight: '1',
+  occurrence: '3 in 777 editions (0.39 %)'
+}
+{
+  trait: 'whitemint_01',
+  weight: '1',
+  occurrence: '2 in 777 editions (0.26 %)'
+}
+{
+  trait: 'whitepurp_01',
+  weight: '1',
+  occurrence: '7 in 777 editions (0.90 %)'
+}
+{
+  trait: 'whteblk_01',
+  weight: '1',
+  occurrence: '7 in 777 editions (0.90 %)'
+}
+{
+  trait: 'whtered_01',
+  weight: '1',
+  occurrence: '5 in 777 editions (0.64 %)'
+}
+{
+  trait: 'whtmarron_01',
+  weight: '1',
+  occurrence: '4 in 777 editions (0.51 %)'
+}
+{
+  trait: 'yellow_01 copy',
+  weight: '1',
+  occurrence: '7 in 777 editions (0.90 %)'
+}
+{
+  trait: 'yellow_01',
+  weight: '1',
+  occurrence: '3 in 777 editions (0.39 %)'
+}
+{
+  trait: 'yellowdread_01',
+  weight: '1',
+  occurrence: '6 in 777 editions (0.77 %)'
+}
+{
+  trait: 'yellowfrotop_01',
+  weight: '1',
+  occurrence: '6 in 777 editions (0.77 %)'
+}
+{
+  trait: 'yellowglowfrotop_01',
+  weight: '1',
+  occurrence: '3 in 777 editions (0.39 %)'
+}
+{
+  trait: 'yellowredsnap_01',
+  weight: '1',
+  occurrence: '4 in 777 editions (0.51 %)'
+}
+
+Trait type: clothes
+{
+  trait: 'Bulls_jersey_01',
+  weight: '1',
+  occurrence: '58 in 777 editions (7.46 %)'
+}
+{
+  trait: 'Bulls_jersey_01_01',
+  weight: '1',
+  occurrence: '50 in 777 editions (6.44 %)'
+}
+{
+  trait: 'T_durden_ v2_01',
+  weight: '1',
+  occurrence: '54 in 777 editions (6.95 %)'
+}
+{
+  trait: 'T_durden_fish_01',
+  weight: '1',
+  occurrence: '67 in 777 editions (8.62 %)'
+}
+{
+  trait: 'black_button_up_01',
+  weight: '1',
+  occurrence: '63 in 777 editions (8.11 %)'
+}
+{
+  trait: 'blue_organge_ninja_01',
+  weight: '1',
+  occurrence: '45 in 777 editions (5.79 %)'
+}
+{
+  trait: 'blue_tank_01',
+  weight: '1',
+  occurrence: '39 in 777 editions (5.02 %)'
+}
+{
+  trait: 'burgandy_buttonup_01',
+  weight: '1',
+  occurrence: '47 in 777 editions (6.05 %)'
+}
+{
+  trait: 'buttonup_blue_01',
+  weight: '1',
+  occurrence: '50 in 777 editions (6.44 %)'
+}
+{
+  trait: 'grey_ninja_01',
+  weight: '1',
+  occurrence: '51 in 777 editions (6.56 %)'
+}
+{
+  trait: 'no_shirt_01',
+  weight: '1',
+  occurrence: '52 in 777 editions (6.69 %)'
+}
+{
+  trait: 't_durden_all_patterns_01',
+  weight: '1',
+  occurrence: '55 in 777 editions (7.08 %)'
+}
+{
+  trait: 'tank_top_teal_01',
+  weight: '1',
+  occurrence: '52 in 777 editions (6.69 %)'
+}
+{
+  trait: 'tank_yellow_01',
+  weight: '1',
+  occurrence: '40 in 777 editions (5.15 %)'
+}
+{
+  trait: 'tanktop_red_01',
+  weight: '1',
+  occurrence: '54 in 777 editions (6.95 %)'
+}
+
